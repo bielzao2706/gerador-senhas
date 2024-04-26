@@ -7,3 +7,8 @@
     --fundo-texto: #001E40;
     --borda: #0075FF;
 }
+
+body{
+    color: var(--branco);
+    background-color: var(--cor-de-fundo);
+}
